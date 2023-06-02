@@ -34,10 +34,10 @@ Para executar o seu bot do Discord, certifique-se de estar no diretório do proj
 python bot.py
 ```
 
-##Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para enviar um pull request.
 
-##Contato
+## Contato
 Se você tiver alguma dúvida ou sugestão relacionada a este bot do Discord, entre em contato comigo por meio das seguintes opções:
 
 Nome: Samuel Vieira
